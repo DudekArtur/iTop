@@ -331,6 +331,8 @@ Dict::Add('IT IT', 'Italian', 'Italiano', array(
 	'Class:EventNotification/Attribute:action_id+' => 'account utente',
 	'Class:EventNotification/Attribute:object_id' => 'Id oggetto',
 	'Class:EventNotification/Attribute:object_id+' => 'Id oggetto (classe definita dal trigger ?)',
+    'Class:EventNotification/Attribute:object_class' => 'Object class~~',
+    'Class:EventNotification/Attribute:object_class+' => 'Object class (Same as trigger)~~',
 ));
 
 //

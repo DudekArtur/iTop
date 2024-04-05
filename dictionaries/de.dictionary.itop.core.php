@@ -330,6 +330,8 @@ Dict::Add('DE DE', 'German', 'Deutsch', array(
 	'Class:EventNotification/Attribute:action_id+' => '',
 	'Class:EventNotification/Attribute:object_id' => 'Objekt-ID',
 	'Class:EventNotification/Attribute:object_id+' => '',
+    'Class:EventNotification/Attribute:object_class' => 'Object class~~',
+    'Class:EventNotification/Attribute:object_class+' => 'Object class (Same as trigger)~~',
 ));
 
 //

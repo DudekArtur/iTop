@@ -331,6 +331,8 @@ Dict::Add('PT BR', 'Brazilian', 'Brazilian', array(
 	'Class:EventNotification/Attribute:action_id+' => 'Conta de usuário',
 	'Class:EventNotification/Attribute:object_id' => 'ID do objeto',
 	'Class:EventNotification/Attribute:object_id+' => 'ID do objeto (classe definida pelo gatilho?)',
+    'Class:EventNotification/Attribute:object_class' => 'Object class~~',
+    'Class:EventNotification/Attribute:object_class+' => 'Object class (Same as trigger)~~',
 ));
 
 //

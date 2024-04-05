@@ -377,6 +377,8 @@ Dict::Add('ZH CN', 'Chinese', '简体中文', array(
 	'Class:EventNotification/Attribute:action_id+' => '用户账号',
 	'Class:EventNotification/Attribute:object_id' => '对象编号',
 	'Class:EventNotification/Attribute:object_id+' => '对象编号 (类型由触发器定义?)',
+    'Class:EventNotification/Attribute:object_class' => 'Object class~~',
+    'Class:EventNotification/Attribute:object_class+' => 'Object class (Same as trigger)~~',
 ));
 
 //

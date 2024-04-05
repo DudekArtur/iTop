@@ -337,6 +337,8 @@ Dict::Add('NL NL', 'Dutch', 'Nederlands', array(
 	'Class:EventNotification/Attribute:action_id+' => 'De gebruiker die de melding veroorzaakte',
 	'Class:EventNotification/Attribute:object_id' => 'ID object',
 	'Class:EventNotification/Attribute:object_id+' => 'ID object (klasse gedefineerd door de trigger)',
+    'Class:EventNotification/Attribute:object_class' => 'Object class~~',
+    'Class:EventNotification/Attribute:object_class+' => 'Object class (Same as trigger)~~',
 ));
 
 //

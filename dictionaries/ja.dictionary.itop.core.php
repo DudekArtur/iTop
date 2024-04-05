@@ -329,6 +329,8 @@ Dict::Add('JA JP', 'Japanese', '日本語', array(
 	'Class:EventNotification/Attribute:action_id+' => 'ユーザアカウント',
 	'Class:EventNotification/Attribute:object_id' => 'オブジェクトID',
 	'Class:EventNotification/Attribute:object_id+' => 'オブジェクトID(トリガーでクラスが定義済み?)',
+    'Class:EventNotification/Attribute:object_class' => 'Object class~~',
+    'Class:EventNotification/Attribute:object_class+' => 'Object class (Same as trigger)~~',
 ));
 
 //

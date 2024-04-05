@@ -339,6 +339,8 @@ Dict::Add('TR TR', 'Turkish', 'Türkçe', array(
 	'Class:EventNotification/Attribute:action_id+' => 'kullanıcı hesabı',
 	'Class:EventNotification/Attribute:object_id' => 'Nesne belirleyicisi',
 	'Class:EventNotification/Attribute:object_id+' => 'nesne belirleyicisi (olayı tetikleyen nesne ?)',
+    'Class:EventNotification/Attribute:object_class' => 'Object class~~',
+    'Class:EventNotification/Attribute:object_class+' => 'Object class (Same as trigger)~~',
 ));
 
 //

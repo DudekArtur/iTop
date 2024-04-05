@@ -318,6 +318,8 @@ Dict::Add('RU RU', 'Russian', 'Русский', array(
 	'Class:EventNotification/Attribute:action_id+' => 'Выполненное действие',
 	'Class:EventNotification/Attribute:object_id' => 'ID объекта',
 	'Class:EventNotification/Attribute:object_id+' => 'Идентификатор объекта целевого класса триггера',
+    'Class:EventNotification/Attribute:object_class' => 'Object class~~',
+    'Class:EventNotification/Attribute:object_class+' => 'Object class (Same as trigger)~~',
 ));
 
 //

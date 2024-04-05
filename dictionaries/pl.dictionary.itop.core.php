@@ -330,6 +330,8 @@ Dict::Add('PL PL', 'Polish', 'Polski', array(
 	'Class:EventNotification/Attribute:action_id+' => 'konto użytkownika',
 	'Class:EventNotification/Attribute:object_id' => 'Id obiektu',
 	'Class:EventNotification/Attribute:object_id+' => 'id obiektu (klasa zdefiniowana przez wyzwalacz?)',
+    'Class:EventNotification/Attribute:object_class' => 'Object class~~',
+    'Class:EventNotification/Attribute:object_class+' => 'Object class (Same as trigger)~~',
 ));
 
 //

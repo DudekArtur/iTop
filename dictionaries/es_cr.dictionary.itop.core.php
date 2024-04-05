@@ -332,6 +332,8 @@ Dict::Add('ES CR', 'Spanish', 'Español, Castellano', array(
 	'Class:EventNotification/Attribute:action_id+' => 'Cuenta de usuario',
 	'Class:EventNotification/Attribute:object_id' => 'Id de Objeto',
 	'Class:EventNotification/Attribute:object_id+' => 'Id de objeto (¿clase definida por el disparador?)',
+    'Class:EventNotification/Attribute:object_class' => 'Object class~~',
+    'Class:EventNotification/Attribute:object_class+' => 'Object class (Same as trigger)~~',
 ));
 
 //

@@ -331,6 +331,8 @@ Dict::Add('HU HU', 'Hungarian', 'Magyar', array(
 	'Class:EventNotification/Attribute:action_id+' => '',
 	'Class:EventNotification/Attribute:object_id' => 'Objektum azonosító',
 	'Class:EventNotification/Attribute:object_id+' => 'Objektum azonosítója (eseményindító határozza meg az osztályt ?)',
+    'Class:EventNotification/Attribute:object_class' => 'Object class~~',
+    'Class:EventNotification/Attribute:object_class+' => 'Object class (Same as trigger)~~',
 ));
 
 //

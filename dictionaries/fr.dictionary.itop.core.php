@@ -328,8 +328,10 @@ Dict::Add('FR FR', 'French', 'Français', array(
 	'Class:EventNotification/Attribute:trigger_id+' => '',
 	'Class:EventNotification/Attribute:action_id' => 'Action',
 	'Class:EventNotification/Attribute:action_id+' => '',
-	'Class:EventNotification/Attribute:object_id' => 'Objet',
+	'Class:EventNotification/Attribute:object_id' => 'Identifiant de l\'objet',
 	'Class:EventNotification/Attribute:object_id+' => '',
+    'Class:EventNotification/Attribute:object_class' => 'Classe de l\'objet',
+    'Class:EventNotification/Attribute:object_class+' => 'Classe de l\'objet (la même que celle du déclencheur)',
 ));
 
 //
